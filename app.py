@@ -10,6 +10,7 @@ import threading
 from dataclasses import dataclass
 from typing import Dict, List, Optional
 import warnings
+from technical_indicators import TechnicalIndicators
 warnings.filterwarnings('ignore')
 
 # Configure Streamlit page
