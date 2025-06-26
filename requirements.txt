@@ -6,3 +6,4 @@ plotly
 ta
 matplotlib
 scikit-learn
+aiohttp
